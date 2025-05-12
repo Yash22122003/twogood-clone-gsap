@@ -73,5 +73,4 @@ This project is for educational purposes. Inspired by the original design at [Tw
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
-[Your Portfolio or LinkedIn link]
+Made with ❤️ by YASH
